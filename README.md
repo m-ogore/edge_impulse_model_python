@@ -1,7 +1,7 @@
 # edge_impulse_model_python
 Go to Edge impulse and under your project
 1. Click dashboard
-2. Crolldown untill you see the model with extension ".h5"
+2. scroll own untill you see the model with extension ".h5"
 ![image](https://user-images.githubusercontent.com/42109589/185128402-9c20cbb7-f41d-4c08-bcc8-36ea2d39fbd1.png)
 3. Download the model to your computer
 4. Open the code and edit the following 
